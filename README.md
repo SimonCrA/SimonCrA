@@ -3,9 +3,9 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
-## I'm an electronic Engenieer fell in love with programming
+## I'm an electronic Engenieer in love with programming
 
-- 🔭 i'm currently studying programming (Vue.js , Node.js)
+- 🔭 i'm currently studying programming (Vue.js , Node.js) on my own.
 - 🌱 I’m currently developing some micro-projects related to making with arduino and ESP32.
 - 👯 I’m looking to collaborate with other coders
 - 🥅 2020 Goals: I want to learn How to code, improve my english skills, start to learn French. 
