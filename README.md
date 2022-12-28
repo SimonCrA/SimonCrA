@@ -8,8 +8,8 @@
 
 ## I'm an electronic Engenieer in love with programming
 
-- 🔭 i'm currently studying programming (Vue.js , Node.js) on my own.
-- 🌱 I’m currently developing some micro-projects related to making with arduino and ESP32, python and GO.
+- 🔭 i'm currently studying programming (Vue.js , Node.js, flutter) on my own.
+- 🌱 I’m currently developing some micro-projects related to making with arduino and ESP32, python and GO, and mobile apps.
 - 👯 I’m looking  forward to collaborate with other coders
 - 🥅 2023 Goals: Improve my programming skills, learn cloud, learn a new language
 - ⚡ Fun fact: I love music, to play guitar, and learn languages.
