@@ -11,7 +11,7 @@
 - 🔭 i'm currently studying programming (Vue.js , Node.js) on my own.
 - 🌱 I’m currently developing some micro-projects related to making with arduino and ESP32, python and GO.
 - 👯 I’m looking  forward to collaborate with other coders
-- 🥅 2021 Goals: I want to keep coding and learning new technologies such as GO and Python, get better in what i do
+- 🥅 2023 Goals: Improve my programming skills, learn cloud, learn a new language
 - ⚡ Fun fact: I love music, to play guitar, and learn languages.
 
 <br />
