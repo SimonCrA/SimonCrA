@@ -8,11 +8,9 @@
 
 ## I'm an electronic Engenieer in love with programming
 
-- 🔭 i'm currently studying programming (Vue.js , Node.js, flutter) on my own.
-- 🌱 I’m currently developing some micro-projects related to making with arduino and ESP32, python and GO, and mobile apps.
-- 👯 I’m looking  forward to collaborate with other coders
-- 🥅 2023 Goals: Improve my programming skills, learn cloud, learn a new language
-- ⚡ Fun fact: I love music, to play guitar, and learn languages.
+- 🔭 i'm currently creating stuff in typescript, go, and dart (flutter).
+- 🥅 2023 Goals: Bring some value through my programming skills.
+- ⚡ Fun fact: I have a youtube channel, and I like music.
 
 <br />
 
@@ -60,7 +58,7 @@
 
 ---
 
-[website]: https://simon-clemente.vercel.app
-[twitter]: https://twitter.com/simonbeingsimon
-[instagram]: https://instagram.com/simon_clemente
-[linkedin]: https://linkedin.com/in/simon-clemente-917011162
+[website]: https://www.simonctech.com
+[twitter]: https://twitter.com/simonctech
+[instagram]: https://instagram.com/simonctech
+[linkedin]: https://linkedin.com/in/simonctech
