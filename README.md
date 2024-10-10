@@ -10,7 +10,6 @@
 ## I'm an electronic Engenieer in love with programming
 
 - 🔭 i'm currently creating stuff in typescript, go, and dart (flutter).
-- 🥅 2023 Goals: Bring some value through my programming skills.
 - ⚡ Fun fact: I have a youtube channel, and I like music.
 
 <br />
