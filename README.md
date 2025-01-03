@@ -7,7 +7,7 @@
 
 <br/>
 
-### I like programming. Most of my time is spent creating software for the web, but this year, I am exploring more areas beyond web development.
+### I like programming. Most of my time is spent creating software for the web, but this year, I'm exploring more areas beyond web development.
 
 <br/>
 
