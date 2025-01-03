@@ -7,14 +7,17 @@
 
 <br/>
 
-## I'm an electronic Engenieer in love with programming
+### I like programming. Most of my time is spent creating software for the web, but this year, I am exploring more areas beyond web development.
 
-- 🔭 i'm currently creating stuff in typescript, go, and dart (flutter).
-- ⚡ Fun fact: I have a youtube channel, and I like music.
+<br/>
+
+- 🔭 My go-to languages are: Typescript and Golang.
+- ⚓ My preferred operating system to create stuff is Linux.
+- ⚡ Fun fact: I like to explain stuff and music.
 
 <br />
 
-## 👩‍💻 Programming Languages
+## 👩‍💻 Technologies I like to use
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,35 +27,28 @@
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-##  📚 Version Control
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-## 🖌 Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxtjs](	https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-##  🖥 Hosting/SaaS
-
-
-![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-##  🖥 SO
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
 <br />
+
 ---
 
 [website]: https://www.simonctech.com
