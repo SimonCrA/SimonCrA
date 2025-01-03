@@ -14,6 +14,7 @@
 - 🔭 My go-to languages are: Typescript and Golang.
 - ⚓ My preferred operating system to create stuff is Linux.
 - ⚡ Fun fact: I like to explain stuff and music.
+- 🤓 I use nvim btw.
 
 <br />
 
